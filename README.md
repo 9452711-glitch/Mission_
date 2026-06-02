@@ -1,3 +1,2 @@
-# Mission_
-For gpt
-這是由我個人基於原版進行二次開發與後續維護的繁體中文版／優化版工具...
+# Skylines-ElevatedTrainStationTrack
+Elevated Train Station Track mod for Cities: Skylines
